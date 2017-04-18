@@ -1,0 +1,20 @@
+.general {
+  display: block;
+  background-color: #6AFCBA;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+}
+
+.generalDentro {
+  display: inline-block;
+  position: relative;
+}
+
+.contenedorGeneralDentro {
+  display: table-footer-group;
+  position: relative;
+  background-color: #FF95C9;
+  width: 130px;
+  height: 310px;
+}
